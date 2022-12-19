@@ -37,7 +37,7 @@
 <div class="header">
 	<div class="container">
 		<div class="logo" data-wow-delay=".5s">
-			<a href="index.php">Hệ Thống Tour <span>Du Lịch</span></a>	
+			<a href="index.php">Hệ Thống Tour <span>Du Lịch - Vu Xuan Phi</span></a>	
 		</div>
 	
 		<!-- <div class="lock" data-wow-delay=".5s"> 
