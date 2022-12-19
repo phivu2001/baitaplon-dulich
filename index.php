@@ -68,7 +68,7 @@ include('includes/config.php');
 			</div>
 			<div class="rup-rgt">
 				<h3>Nhiều ưu đãi hấp dẫn</h3>
-				<h4><a href="https://bmd.com.vn/top-5-ung-dung-dat-tour-du-lich/">Tiện dụng trên phone</a></h4>
+				<h4><a href="https://bmd.com.vn/top-5-ung-dung-dat-tour-du-lich/">Tiện dụng trên điện thoại - nguyenhuuhoang</a></h4>
 			
 			</div>
 				<div class="clearfix"></div>
